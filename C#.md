@@ -184,17 +184,3 @@ namespace BasicArithmetic
 }
 ```
 
-- **Explanation:**
-  - Demonstrates the use of basic arithmetic operators.
-  - Uses `Console.WriteLine` to display the results of the operations.
-
-### Summary
-
-- **C#** is a powerful, object-oriented programming language used for a variety of applications.
-- **Visual Studio** is the primary IDE used for C# development.
-- Understanding the **basic syntax**, **data types**, and **operators** is crucial for writing simple C# programs.
-- Practical exercises help reinforce the concepts and provide hands-on experience.
-
-### Next Steps
-
-In the next session, we will cover control structures such as conditional statements and loops, which are essential for making decisions and repeating tasks in your programs.
